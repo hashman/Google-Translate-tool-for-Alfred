@@ -4,11 +4,15 @@
 
 * Hashman
 * Blog: [http://coosos.blogspot.tw/](http://coosos.blogspot.tw/)
+* Blog: [http://hashman-blog.logdown.com/](http://hashman-blog.logdown.com/)
 
 ## Change Log
 
+* 2016.09.09 - v1.1.0
+    1. Change Stichoza/google-translate-php to composer package
+
 * 2016.07.09 - v1.0.0
- 	1. Google Translate main function.
+	1. Google Translate main function.
 	2. Translate English to Traditional Chinese by default.
 	3. Set default source/target translate Language code.
 
