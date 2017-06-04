@@ -3,8 +3,7 @@
 ## Author
 
 * Hashman
-* Blog: [http://coosos.blogspot.tw/](http://coosos.blogspot.tw/)
-* Blog: [http://hashman-blog.logdown.com/](http://hashman-blog.logdown.com/)
+* Blog: [http://hashman.tw/](http://hashman.tw/)
 
 ## Change Log
 
@@ -35,7 +34,7 @@ _Note: Please use "tw" as the Traditional Chinese Language code "zh-TW"._
 2. type "tranlate"
 3. add space then type any sentance you want to translate
 ```
-![](https://dl.dropboxusercontent.com/u/33150136/markdown/github/google%20translate%20alfred/useage.jpg)
+![](http://i.imgur.com/zC2siRB.jpg)
 
 ### set default source language
 
